@@ -52,8 +52,8 @@ permalink: /miui/raphaelin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFKINXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-21</td><td><a href="/miui/raphaelin/stable/V12.0.4.0.QFKINXM/">Download</a></td></tr>
-<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-26</td><td><a href="/miui/raphaelin/stable/V12.0.4.0.QFKINXM/">Download</a></td></tr>
+                <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFKINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-06-29</td><td><a href="/miui/raphaelin/stable/V12.5.1.0.RFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFKINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-07-09</td><td><a href="/miui/raphaelin/stable/V12.5.1.0.RFKINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

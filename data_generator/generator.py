@@ -50,7 +50,7 @@ def get_data_from_github(url):
     return data
 
 
-ORG = get_data_from_github('https://api.github.com/orgs/XiaomiFirmwareUpdater/repos?per_page=100')
+ORG = get_data_from_github('https://api.github.com/orgs/XiaomiFirmwareUpdaterReleases/repos?per_page=100')
 
 
 def load_names():
@@ -100,7 +100,7 @@ def load_releases():
     archive = []
     for device in FW_CODENAMES:
         info = []
-        url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
+        url = f'https://api.github.com/repos/XiaomiFirmwareUpdaterReleases/' \
               f'firmware_xiaomi_{device}/releases?per_page=100'
         data = get_data_from_github(url)
         # Generate all releases YAML
@@ -114,16 +114,29 @@ def load_releases():
                 miui_version = filename.split('_')[-3]
                 android = filename.split('_')[-1].split('.zip')[0]
                 download_url = asset['browser_download_url']
-                if 'EEAGlobal' in filename or 'EU' in miui_version:
-                    region = 'Europe'
-                elif 'INGlobal' in filename or 'IN' in miui_version:
-                    region = 'India'
-                elif 'RUGlobal' in filename or 'RU' in miui_version:
-                    region = 'Russia'
-                elif 'Global' in filename or 'MI' in miui_version:
-                    region = 'Global'
+                if miui_version.startswith("V"):
+                    region_code = miui_version[-4:-2]
+                    if 'EU' in miui_version:
+                        region = 'Europe'
+                    elif 'IN' in miui_version:
+                        region = 'India'
+                    elif 'RU' in miui_version:
+                        region = 'Russia'
+                    elif 'MI' in miui_version:
+                        region = 'Global'
+                    else:
+                        region = 'China'
                 else:
-                    region = 'China'
+                    if 'EEAGlobal' in filename:
+                        region = 'Europe'
+                    elif 'INGlobal' in filename:
+                        region = 'India'
+                    elif 'RUGlobal' in filename:
+                        region = 'Russia'
+                    elif 'Global' in filename:
+                        region = 'Global'
+                    else:
+                        region = 'China'
                 osdn = 'https://osdn.net/projects/xiaomifirmwareupdater/storage/'
                 if branch == 'stable':
                     osdn += 'Stable/'
@@ -176,7 +189,7 @@ def load_releases():
         if update["branch"] == "weekly":
             date = update["date"]
             date_array = date.split('-')
-            if int(date_array[0]) == 2020 and int(date_array[1]) >= 4:
+            if int(date_array[0]) in (2020, 2021) and int(date_array[1]) >= 4:
                 filename = update["filename"]
                 codename = filename.split('_')[1]
                 name = FW_DEVICES[codename]

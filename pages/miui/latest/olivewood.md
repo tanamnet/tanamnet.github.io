@@ -52,10 +52,10 @@ permalink: /miui/olivewood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCQIDXM</td><td>10.0</td><td>3.0 GB</td><td>2020-09-01</td><td><a href="/miui/olivewood/stable/V11.0.1.0.QCQIDXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCQIDXM</td><td>10.0</td><td>1.8 GB</td><td>2020-09-08</td><td><a href="/miui/olivewood/stable/V11.0.1.0.QCQIDXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QCQINXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-24</td><td><a href="/miui/olivewood/stable/V11.0.3.0.QCQINXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QCQINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-11-28</td><td><a href="/miui/olivewood/stable/V11.0.3.0.QCQINXM/">Download</a></td></tr>
+                <tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QCQIDXM</td><td>10.0</td><td>3.3 GB</td><td>2021-06-11</td><td><a href="/miui/olivewood/stable/V12.0.5.0.QCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QCQIDXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-30</td><td><a href="/miui/olivewood/stable/V12.0.5.0.QCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCQINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-05-24</td><td><a href="/miui/olivewood/stable/V12.0.4.0.QCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCQINXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-09</td><td><a href="/miui/olivewood/stable/V12.0.4.0.QCQINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1,7 +1,87 @@
 - branch: stable
+  date: '2021-06-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-09.06.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.3.0.QCPINXM_c682220ca8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.3.0.QCPINXM_c682220ca8_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.0.3.0.QCPINXM_c682220ca8_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCPINXM
+- branch: stable
+  date: '2021-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-25.05.2021/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.3.0.QCPEUXM_a4c6982f78_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.3.0.QCPEUXM_a4c6982f78_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.3.0.QCPEUXM_a4c6982f78_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCPEUXM
+- branch: stable
+  date: '2021-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-25.05.2021/fw_olivelite_miui_OLIVELITEGlobal_V12.0.3.0.QCPMIXM_eaa042ee1e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V12.0.3.0.QCPMIXM_eaa042ee1e_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V12.0.3.0.QCPMIXM_eaa042ee1e_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCPMIXM
+- branch: stable
+  date: '2021-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-25.05.2021/fw_olivelite_miui_OLIVELITE_V12.0.3.0.QCPCNXM_a8926d9977_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITE_V12.0.3.0.QCPCNXM_a8926d9977_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITE_V12.0.3.0.QCPCNXM_a8926d9977_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCPCNXM
+- branch: stable
+  date: '2021-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-14.04.2021/fw_olivelite_miui_OLIVELITE_V12.0.2.0.QCPCNXM_19bb3e7581_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITE_V12.0.2.0.QCPCNXM_19bb3e7581_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITE_V12.0.2.0.QCPCNXM_19bb3e7581_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCPCNXM
+- branch: stable
+  date: '2021-04-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-12.04.2021/fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCPMIXM
+- branch: stable
+  date: '2021-04-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-06.04.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.2.0.QCPINXM_a4b43383a4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.2.0.QCPINXM_a4b43383a4_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.0.2.0.QCPINXM_a4b43383a4_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCPINXM
+- branch: stable
+  date: '2021-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-26.03.2021/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.2.0.QCPEUXM_53eb672eb5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.2.0.QCPEUXM_53eb672eb5_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.2.0.QCPEUXM_53eb672eb5_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCPEUXM
+- branch: stable
   date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.01.2021/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.1.0.QCPEUXM_4f9bdb6c18_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-08.01.2021/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.1.0.QCPEUXM_4f9bdb6c18_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.1.0.QCPEUXM_4f9bdb6c18_10.0.zip
   filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.1.0.QCPEUXM_4f9bdb6c18_10.0.zip
   region: Europe
@@ -11,7 +91,7 @@
 - branch: stable
   date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.01.2021/fw_olivelite_miui_OLIVELITE_V12.0.1.0.QCPCNXM_8f7acb62ca_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-08.01.2021/fw_olivelite_miui_OLIVELITE_V12.0.1.0.QCPCNXM_8f7acb62ca_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITE_V12.0.1.0.QCPCNXM_8f7acb62ca_10.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V12.0.1.0.QCPCNXM_8f7acb62ca_10.0.zip
   region: China
@@ -21,7 +101,7 @@
 - branch: stable
   date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-20.12.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-20.12.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
   filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
   region: Global
@@ -31,7 +111,7 @@
 - branch: stable
   date: '2020-11-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-09.11.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-09.11.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.2.0.QCPINXM_11bc0bdf26_10.0.zip
   region: India
@@ -39,29 +119,9 @@
     android: '10.0'
     miui: V11.0.2.0.QCPINXM
 - branch: stable
-  date: '2020-10-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.10.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QCPEUXM
-- branch: stable
-  date: '2020-10-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-09.10.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.QCPMIXM_8b2e928a61_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.QCPMIXM_8b2e928a61_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.QCPMIXM_8b2e928a61_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QCPMIXM
-- branch: stable
   date: '2020-09-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.09.2020/fw_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-08.09.2020/fw_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip
   region: China
@@ -71,7 +131,7 @@
 - branch: stable
   date: '2020-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-24.08.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-24.08.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
   region: India
@@ -81,7 +141,7 @@
 - branch: stable
   date: '2020-08-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.08.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-22.08.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
   filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
   region: Europe
@@ -91,7 +151,7 @@
 - branch: stable
   date: '2020-08-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-04.08.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-04.08.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
   filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
   region: Global
@@ -99,19 +159,9 @@
     android: '10.0'
     miui: V11.0.1.0.QCPMIXM
 - branch: stable
-  date: '2020-07-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-27.07.2020/fw_olivelite_miui_OLIVELITE_V11.0.2.0.QCPCNXM_2a36b8852d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.2.0.QCPCNXM_2a36b8852d_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITE_V11.0.2.0.QCPCNXM_2a36b8852d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QCPCNXM
-- branch: stable
   date: '2020-06-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-12.06.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-12.06.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip
   region: Europe
@@ -121,7 +171,7 @@
 - branch: stable
   date: '2020-06-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-09.06.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.7.0.PCPMIXM_5d49cdc7de_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-09.06.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.7.0.PCPMIXM_5d49cdc7de_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.7.0.PCPMIXM_5d49cdc7de_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.7.0.PCPMIXM_5d49cdc7de_9.0.zip
   region: Global
@@ -131,7 +181,7 @@
 - branch: stable
   date: '2020-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.06.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-08.06.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
   region: India
@@ -141,7 +191,7 @@
 - branch: stable
   date: '2020-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-03.06.2020/fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-03.06.2020/fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
   region: China
@@ -151,7 +201,7 @@
 - branch: stable
   date: '2020-04-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-13.04.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-13.04.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip
   region: Europe
@@ -161,7 +211,7 @@
 - branch: stable
   date: '2020-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.04.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-08.04.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
   region: India
@@ -171,7 +221,7 @@
 - branch: stable
   date: '2020-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-07.04.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-07.04.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
   region: Global
@@ -181,7 +231,7 @@
 - branch: stable
   date: '2020-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-31.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-31.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
   region: China
@@ -191,7 +241,7 @@
 - branch: stable
   date: '2020-03-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-30.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-30.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
   region: China
@@ -199,109 +249,9 @@
     android: '9.0'
     miui: V11.0.9.0.PCPCNXM
 - branch: stable
-  date: '2020-03-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-04.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.8.0.PCPCNXM
-- branch: stable
-  date: '2020-02-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.02.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.PCPEUXM_450a25d46b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.PCPEUXM_450a25d46b_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.PCPEUXM_450a25d46b_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PCPEUXM
-- branch: stable
-  date: '2020-02-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.02.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.5.0.PCPMIXM_b47db7319d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.5.0.PCPMIXM_b47db7319d_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.5.0.PCPMIXM_b47db7319d_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCPMIXM
-- branch: stable
-  date: '2020-02-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.02.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.7.0.PCPINXM_05e152505e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.7.0.PCPINXM_05e152505e_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.7.0.PCPINXM_05e152505e_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V11.0.7.0.PCPINXM
-- branch: stable
-  date: '2020-01-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.01.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.4.0.PCPMIXM_dcbb289272_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.4.0.PCPMIXM_dcbb289272_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.4.0.PCPMIXM_dcbb289272_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PCPMIXM
-- branch: stable
-  date: '2020-01-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-15.01.2020/fw_olivelite_miui_OLIVELITE_V11.0.7.0.PCPCNXM_d238164171_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.7.0.PCPCNXM_d238164171_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITE_V11.0.7.0.PCPCNXM_d238164171_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.7.0.PCPCNXM
-- branch: stable
-  date: '2020-01-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-14.01.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.5.0.PCPINXM_5fb21b28a0_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.5.0.PCPINXM_5fb21b28a0_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.5.0.PCPINXM_5fb21b28a0_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCPINXM
-- branch: stable
-  date: '2019-12-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-27.12.2019/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PCPMIXM
-- branch: stable
-  date: '2019-12-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-23.12.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.2.0.PCPEUXM_8e0f667a14_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.2.0.PCPEUXM_8e0f667a14_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.2.0.PCPEUXM_8e0f667a14_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V11.0.2.0.PCPEUXM
-- branch: stable
-  date: '2019-12-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-09.12.2019/fw_olivelite_miui_OLIVELITE_V11.0.4.0.PCPCNXM_4e06f21a3d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.4.0.PCPCNXM_4e06f21a3d_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITE_V11.0.4.0.PCPCNXM_4e06f21a3d_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PCPCNXM
-- branch: stable
   date: '2019-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-02.12.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-02.12.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
   region: Europe
@@ -311,7 +261,7 @@
 - branch: stable
   date: '2019-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-26.11.2019/fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-26.11.2019/fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip
   region: Global
@@ -321,7 +271,7 @@
 - branch: stable
   date: '2019-11-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-25.11.2019/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-25.11.2019/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
   region: India
@@ -331,7 +281,7 @@
 - branch: stable
   date: '2019-11-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-25.11.2019/fw_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-25.11.2019/fw_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
   region: China
@@ -341,7 +291,7 @@
 - branch: stable
   date: '2019-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-13.11.2019/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-13.11.2019/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
   region: India
@@ -351,7 +301,7 @@
 - branch: stable
   date: '2019-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-05.11.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-05.11.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
   region: Europe
@@ -361,7 +311,7 @@
 - branch: stable
   date: '2019-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-05.11.2019/fw_olivelite_miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-05.11.2019/fw_olivelite_miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip
   region: Global
@@ -371,7 +321,7 @@
 - branch: stable
   date: '2019-10-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-23.10.2019/fw_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-23.10.2019/fw_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip
   region: India
@@ -381,7 +331,7 @@
 - branch: stable
   date: '2019-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.10.2019/fw_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-21.10.2019/fw_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
   region: China
@@ -391,7 +341,7 @@
 - branch: stable
   date: '2019-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-15.10.2019/fw_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-15.10.2019/fw_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
   filename: fw_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
   region: India
@@ -401,7 +351,7 @@
 - branch: stable
   date: '2019-10-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-14.10.2019/fw_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-14.10.2019/fw_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
   filename: fw_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
   region: China
