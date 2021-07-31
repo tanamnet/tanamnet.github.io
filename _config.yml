@@ -6,15 +6,15 @@ keywords: xiaomi, xiaomi firmware, xiaomi firmware updater, firmware updater, fi
 
 permalink: /:categories/:title/
 repository: tanamnet/tanamnet.github.io
-author: yshalsager
-email: xiaomifirmwareupdater@gmail.com
+author: artupaeda
+email: artupaeda@gmail.com
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
 members:
-  - berkantkz
+  - artupaeda
   - yshalsager
 
 exclude:
