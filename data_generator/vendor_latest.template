@@ -36,11 +36,11 @@ permalink: $link
 
 *Note 2*: Newer vendor packages include boot img, it'll overwrite existing boot img when you install it, so, you'll need to re-flash [Magisk](https://github.com/topjohnwu/magisk) and any custom kernel if you're using it.
 
-{%include ads.html%}
+<!-- {%include ads.html%} -->
 <div class="row justify-content-center">
     <div class="col-10">
         <div class="table-responsive-md" style="margin-top: 25px;">
-            {%include vli_ad_320x50_1.html%}
+            <!-- {%include vli_ad_320x50_1.html%} -->
             <table id="vendor" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -56,5 +56,5 @@ permalink: $link
             </table>
         </div>
     </div>
-    {%include vli_ad_160x600_1.html%}
+    <!-- {%include vli_ad_160x600_1.html%} -->
 </div>

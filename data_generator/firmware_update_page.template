@@ -35,11 +35,11 @@ permalink: /firmware/$codename/$branch_lower/$version/
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>
     </div>
-    {%include ads.html%}
+    <!-- {%include ads.html%} -->
     <div class="row justify-content-center">
         <div class="col-10" id="downloads">
                     <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
+            <!-- {%include vli_ad_320x50_1.html%} -->
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
                     <h5><b>Device: </b>$device</h5>
@@ -72,6 +72,6 @@ permalink: /firmware/$codename/$branch_lower/$version/
             </ul>
         </div>
         </div>
-        {%include vli_ad_160x600_1.html%}
+        <!-- {%include vli_ad_160x600_1.html%} -->
     </div>
 </div>

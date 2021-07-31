@@ -37,11 +37,11 @@ permalink: /miui/$codename/$branch_lower/$version/
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>
     </div>
-    {%include ads.html%}
+    <!-- {%include ads.html%} -->
     <div class="row justify-content-center">
         <div class="col-10" id="downloads">
             $updates
         </div>
-        {%include vli_ad_160x600_1.html%}
+        <!-- {%include vli_ad_160x600_1.html%} -->
     </div>
 </div>
