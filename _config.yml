@@ -1,8 +1,8 @@
 # Site settings
-name: Xiaomi Firmware Updater
-title: Xiaomi Firmware Updater
-description: The ultimate website where you can download official ROMs and firmware packages for Xiaomi devices!
-keywords: xiaomi, xiaomi firmware, xiaomi firmware updater, firmware updater, firmware download, firmware, firmware downloader, firmware update, xiaomi firmware download, xiaomi firmware update, Xiaomi update, XDA, Xiaomi XDA, Firmware XDA, yshalsager, xfu, redmi, mi, pocophone, poco
+name: MIUI-Firmware-Vendor Download
+title: MIUI-Firmware-Vendor Download
+description: Website terlengkap yang menyediakan paket update MIUI, firmware, dan Verdor untuk semua device Xiaomi.!
+keywords: xiaomi, xiaomi firmware, xiaomi firmware updater, firmware updater, firmware download, firmware, firmware downloader, firmware update, xiaomi firmware download, xiaomi firmware update, Xiaomi update, XDA, Xiaomi XDA, Firmware XDA, artupaeda, xfu, redmi, mi, pocophone, poco
 
 permalink: /:categories/:title/
 repository: tanamnet/tanamnet.github.io
