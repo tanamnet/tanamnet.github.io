@@ -14,34 +14,32 @@ permalink: /miui/$codename/$branch_lower/$version/
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get
-    notified when a new ROM is out!
+    Follow Tanamnet on <a href="https://t.me/tanamnet" class="alert-link">Telegram</a>
+     or <a href="https://twitter.com/tanamnet" class="alert-link">Twitter</a> untuk mendapatkan notifikasi jika ada update terbaru!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">MIUI $version $branch Official Update for $device ($codename)</h3>
-    <h5>This page shows the $version update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">MIUI $version $branch Official Update untuk $device ($codename)</h3>
+    <h5>Halaman ini menyediakan update $version saja. Jika anda mencari update yang lain silahkan cek:
         <a href="/miui/$codename/">here.</a></h5>
-    <p><i>Note: </i>All files listed here are official untouched MIUI ROMs.
-        It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+    <p><i>Note: </i>Semua file yang kami list adalah ROMs official yang belum tersentuh. Ini bukan milik, modifikasi atau mod Tanamnet.</p> 
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Note</h5>
-            <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-            <p class="card-text">This page shows a single update only.
-                If you're looking for another update or other downloads check:</p>
+            <h6 class="card-subtitle mb-2 text-muted">Anda mencari file yang lain?</h6>
+            <p class="card-text">halaman ini hanya menyediakan download terbaru. Jika anda mencari file lama atau release sebelumnya silahkan cek:</p>
             <a href="/miui/" class="card-link">MIUI Downloads</a>
             <a href="/firmware/" class="card-link">Firmware Downloads</a>
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>
     </div>
-    <!-- {%include ads.html%} -->
+    <!-- include ads.html -->
     <div class="row justify-content-center">
         <div class="col-10" id="downloads">
             $updates
         </div>
-        <!-- {%include vli_ad_160x600_1.html%} -->
+        <!-- include vli_ad_160x600_1.html -->
     </div>
 </div>

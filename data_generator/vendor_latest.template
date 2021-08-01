@@ -13,7 +13,8 @@ permalink: $link
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIVendorUpdater" class="alert-link">MIUI Vendor Updater</a> on Telegram to get notified when a new update is out!
+    Follow Tanamnet on <a href="https://t.me/tanamnet" class="alert-link">Telegram</a>
+     or <a href="https://twitter.com/tanamnet" class="alert-link">Twitter</a> untuk mendapatkan notifikasi jika ada update terbaru!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
@@ -22,9 +23,9 @@ permalink: $link
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
-    <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
+    <h6 class="card-subtitle mb-2 text-muted">Anda mencari file yang lain?</h6>
+    <p class="card-text">halaman ini hanya menyediakan download terbaru.
+     Jika anda mencari file lama atau release sebelumnya silahkan cek:</p>
     <a href="/archive/vendor/$codename/" class="card-link">Vendor Archive</a>
     <a href="/miui/$codename/" class="card-link">MIUI Downloads</a>
     <a href="/firmware/$codename/" class="card-link">Firmware Downloads</a>
@@ -32,15 +33,15 @@ permalink: $link
 </div>
 
 <br/>
-*Note 1*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
+*Note 1*: Semua file disini dibuat oleh [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. File disini bukan milik, modifikasi atau mod tanamnet.
 
-*Note 2*: Newer vendor packages include boot img, it'll overwrite existing boot img when you install it, so, you'll need to re-flash [Magisk](https://github.com/topjohnwu/magisk) and any custom kernel if you're using it.
+*Note 2*: Vendor yang lebih baru sudah termasuk boot img di dalamnya, menimpa boot img lama ketika anda meng-flashing, jadi anda perlu flash ulang [Magisk](https://github.com/topjohnwu/magisk) dan kernel lain jika anda membutuhkannya.
 
-<!-- {%include ads.html%} -->
+<!-- include ads.html -->
 <div class="row justify-content-center">
     <div class="col-10">
         <div class="table-responsive-md" style="margin-top: 25px;">
-            <!-- {%include vli_ad_320x50_1.html%} -->
+            <!-- include vli_ad_320x50_1.html -->
             <table id="vendor" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -56,5 +57,5 @@ permalink: $link
             </table>
         </div>
     </div>
-    <!-- {%include vli_ad_160x600_1.html%} -->
+    <!-- include vli_ad_160x600_1.html -->
 </div>

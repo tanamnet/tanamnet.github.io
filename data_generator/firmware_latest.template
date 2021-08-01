@@ -13,30 +13,29 @@ permalink: $link
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow Xiaomi Firmware Updater on <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Telegram</a>
-     or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
+    Follow Tanamnet on <a href="https://t.me/tanamnet" class="alert-link">Telegram</a>
+     or <a href="https://twitter.com/tanamnet" class="alert-link">Twitter</a> untuk mendapatkan notifikasi jika ada update terbaru!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
+<h3>Firmware Terbaru <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
 <span class="label">RSS</span></a></span></h3>
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
-    <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest firmware downloads only.
-     If you're looking for older releases or other downloads check:</p>
+    <h6 class="card-subtitle mb-2 text-muted">Anda mencari file yang lain?</h6>
+    <p class="card-text">Halaman ini hanya menyediakan download terbaru. Jika anda mencari file lama atau release sebelumnya silahkan cek:</p>
     <a href="/archive/firmware/$codename/" class="card-link">Firmware Archive</a>
     <a href="/miui/$codename/" class="card-link">MIUI Downloads</a>
     <a href="/vendor/$codename/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
-<!-- {%include ads.html%} -->
+<!-- include ads.html -->
 <div class="row justify-content-center">
     <div class="col-10">
-        <!-- {%include vli_ad_320x50_1.html%} -->
+        <!--include vli_ad_320x50_1.html -->
         <div class="table-responsive-md" style="margin-top: 25px;">
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
@@ -53,5 +52,5 @@ permalink: $link
             </table>
         </div>
     </div>
-    <!-- {%include vli_ad_160x600_1.html%} -->
+    <!--include vli_ad_160x600_1.html -->
 </div>
